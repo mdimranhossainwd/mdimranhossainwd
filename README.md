@@ -7,6 +7,8 @@
      alt="A passionate MERN developer from Bangladesh" 
      style="width: 100%; height: 180px; object-fit: cover; object-position: center;">
 
+<br/>
+![](https://komarev.com/ghpvc/?username=mdimranhossainwd&color=F72671)
 
 
 ## 🌐 Reach me out:
