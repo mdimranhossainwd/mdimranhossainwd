@@ -1,4 +1,4 @@
-## Hi there 👋, Md Imran Hossain
+## Hi there 👋, I'm Imran 
 #### A passionate MERN developer from Bangladesh
 
 <img src="https://img.freepik.com/premium-photo/creative-desktop-wallpaper_941097-67554.jpg?w=1000" 
