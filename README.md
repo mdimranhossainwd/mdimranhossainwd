@@ -5,7 +5,7 @@
      alt="Loading Image" 
      style="width: 100%; height: 170px;">
 
-![](https://komarev.com/ghpvc/?username=mdimranhossainwd&color=F72671)
+![](https://komarev.com/ghpvc/?username=mdimranhossainwd)
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on  e-commerce website and large scale job portal based project . 
