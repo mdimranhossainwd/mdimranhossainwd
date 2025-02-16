@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Md Imran Hossain 
 #### A passionate MERN developer from Bangladesh
 
-<img src="" 
+<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
      alt="Loading Image" 
      >
 
