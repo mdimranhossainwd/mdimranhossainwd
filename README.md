@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
      alt="Loading Image" 
-     style="width: 100%; height: 170px;">
+     >
 
 ![](https://komarev.com/ghpvc/?username=mdimranhossainwd)
 
