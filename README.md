@@ -1,12 +1,13 @@
+<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
+     alt="Banner Image" 
+     >
+
 ## <div align='center'> Hi there 👋, I'm Md Imran Hossain </div> 
 #### <div align='center'>A passionate MERN developer from Bangladesh</div>
 
 Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the past 1 Years. I have been achievement my skills in web development. I specialize in Convert Figma, PSD, OR XD File Landing page Designer. I'm always striving to grow and learn something new and I take myself to seriously. I have fresh knowledge of html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and comfortable for express.Js,node Js,Mongodb,Mongoose,Redux, and other tecnology.
 
 
-<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
-     alt="Loading Image" 
-     >
 
 ![](https://komarev.com/ghpvc/?username=mdimranhossainwd)
 
