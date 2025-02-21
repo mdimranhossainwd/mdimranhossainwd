@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Md Imran Hossain 
+## <div align='center'> Hi there 👋, I'm Md Imran Hossain </div> 
 #### A passionate MERN developer from Bangladesh
 
 <img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
