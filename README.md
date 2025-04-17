@@ -16,7 +16,7 @@ Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the
 - 🌱 I’m currently learning Next.js, PostgreSQL and Prisma. 
 - 👯 I’m looking to collaborate on open source projects . 
 - 🤔 I’m looking for help with people learn Web Development. 
-- 💬 Ask me about React, JavaScript, Node, Express and Freelancing Opportunities. 
+- 💬 Ask me about React, JavaScript, TypeScript, Node, Express and Freelancing Opportunities. 
 - ⚡ Fun fact I think I am funny 
 
 ## 🌐 Reach me out:
