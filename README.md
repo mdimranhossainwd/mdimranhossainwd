@@ -23,7 +23,7 @@ Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdimranhossain18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdimranhossainwd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wdimranhossain) 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats :
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=mdimranhossainwd" /> </p>
 
 ## 💻 Tech Stack:
