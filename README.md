@@ -17,7 +17,7 @@ Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the
 - 👯 I’m looking to collaborate on open source projects . 
 - 🤔 I’m looking for help with people learn Web Development. 
 - 💬 Ask me about React, JavaScript, TypeScript, Node, Express and Freelancing Opportunities. 
-- ⚡ Fun fact I think I am funny 
+- ⚡ Fun fact I think I am funny.
 
 ## 🌐 Reach me out :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdimranhossain18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdimranhossainwd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wdimranhossain) 
