@@ -12,7 +12,7 @@ Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the
 ![](https://komarev.com/ghpvc/?username=mdimranhossainwd)
 
 ## 🚀 About Me :
-- 🔭 I’m currently working on chat-applications, e-commerce website  and large scale job portal based project . 
+- 🔭 I’m currently working on chat-applications, blog-writing website  and large scale job portal based project . 
 - 🌱 I’m currently learning Next.js and PostgreSQL. 
 - 👯 I’m looking to collaborate on open source projects . 
 - 🤔 I’m looking for help with people learn Web Development. 
