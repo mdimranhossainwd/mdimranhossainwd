@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpg" 
-     alt="Banner Image" 
-     >
+
 
 ## <div align='center'> Hi there 👋, I'm Md Imran Hossain </div> 
 #### <div align='center'>A passionate MERN developer from Bangladesh</div>
