@@ -29,3 +29,8 @@ Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the
 
 ## Support Me : 
 <p><a href="https://www.buymeacoffee.com/mdimranhossainwd"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p>
+
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
