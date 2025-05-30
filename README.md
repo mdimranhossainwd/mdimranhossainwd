@@ -5,7 +5,7 @@
 <h1 align='center'> Hi 👋, I'm Md Imran Hossain </h1> 
 <h3 align='center'>A passionate MERN developer from Bangladesh</h3>
 
-Hi, I am Md Imran Hossain. A dedicated and enthusiastic MERN Developer. Over the past 1 Years. I have been achievement my skills in web development. I specialize in convert Figma, PSD, OR XD File Landing page Designer. I'm always striving to grow and learn something new and I take myself to seriously. I have fresh knowledge of HTML, CSS, Bootstrap, Tailwind, Javascript ES6(comfortable), Typescript, React.js and comfortable for Express.Js, Node.Js, Mongodb, Mongoose, Redux, and other Tecnology.
+I am Md. Imran Hossain, a dedicated and enthusiastic MERN Stack developer. I have been consistently working in web development for the past 1 year, continuously updating myself with modern technologies and best practices. I am passionate about building user-friendly, responsive, and high-quality web applications, and I am skilled at converting PSD and Figma designs into pixel-perfect web pages. My frontend expertise includes JavaScript (ES6), React.js, TypeScript, Redux, and RTK Query. On the backend, I am comfortable with Node.js and Express.js, and have experience working with MongoDB and Mongoose and other technologies. I have a good understanding of REST API design and implementation and strive to follow clean coding, modular structure, and industry standards. I am accustomed to working under strict deadlines and am committed to continuously improving myself by learning new technologies .
 
 
 
