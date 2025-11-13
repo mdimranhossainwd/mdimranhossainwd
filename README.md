@@ -30,7 +30,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic MERN Stack developer. I hav
 <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=transparent&hide_border=true" /> </p>
 
 ## 💻 Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,jquery,sass,tailwind,bootstrap,materialui,firebase,nodejs,express,mongodb,supabase,mysql,postgresql,postman,figma,heroku,vercel,netlify,git,github,npm,yarn,bun)](#)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vite,react,redux,jquery,sass,tailwind,bootstrap,materialui,firebase,nodejs,express,mongodb,supabase,mysql,postgresql,postman,figma,heroku,vercel,netlify,git,github,npm,yarn,bun)](#)
 
 
 ## Support Me : 
