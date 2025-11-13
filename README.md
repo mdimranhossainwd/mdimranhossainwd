@@ -27,7 +27,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic MERN Stack developer. I hav
 <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=transparent&hide_border=true" /> </p>
 
 ## 💻 Tech Stack :
-https://skillicons.dev/icons?i=javascript,typescript,react,redux,jquery,sass,tailwind,bootstrap,materialui,firebase,nodejs,express,mongodb,supabase,mysql,postgresql,postman,figma,yarn,bun,npm,heroku,vercel,netlify,git,github&theme=light
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,jquery,sass,tailwind,bootstrap,materialui,firebase,nodejs,express,mongodb,supabase,mysql,postgresql,postman,figma,yarn,bun,npm,heroku,vercel,netlify,git,github&theme=light" />
 
 ## Support Me : 
 <p><a href="https://www.buymeacoffee.com/mdimranhossainwd"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p>
