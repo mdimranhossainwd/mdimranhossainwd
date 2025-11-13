@@ -21,7 +21,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic MERN Stack developer. I hav
 
 ## 🌐 Reach me out :
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdimranhossain18)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdimranhossainwd) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wdimranhossain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdimranhossain.wd) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdimranhossainwd) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wdimranhossain) [![Medium](https://img.shields.io/badge/Medium-444?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdimranhossain.wd) 
 
  
 
