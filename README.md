@@ -2,82 +2,64 @@
      alt="Banner Image" 
      >
 
-<h1 align='center'> Hi 👋, I'm Md Imran Hossain </h1> 
-<h3 align='center'>A passionate MERN developer from Bangladesh</h3>
+<h3 align='center'>Full Stack Developer | Specializing in MERN & Next.js 🚀</h3>
 
-I am Md. Imran Hossain, a dedicated and enthusiastic MERN Stack developer. I have been consistently working in web development for the past 1 year, continuously updating myself with modern technologies and best practices. I am passionate about building user-friendly, responsive, and high-quality web applications, and I am skilled at converting PSD and Figma designs into pixel-perfect web pages. My frontend expertise includes JavaScript (ES6), React.js, TypeScript, Redux, and RTK Query. On the backend, I am comfortable with Node.js and Express.js, and have experience working with MongoDB and Mongoose and other technologies. I have a good understanding of REST API design and implementation and strive to follow clean coding, modular structure, and industry standards. I am accustomed to working under strict deadlines and am committed to continuously improving myself by learning new technologies .
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdimranhossainwd&color=blue&style=flat-square" alt="Views" />
+</p>
 
+---
 
+### 👨‍💻 About Me
+I am a dedicated **Full Stack Developer** from Bangladesh with over 1.5 years of experience building scalable web applications. My expertise lies in creating robust architectures using **TypeScript** and modern frameworks. I have transitioned from a MERN developer to a more versatile engineer, now focusing on **Next.js** and **Relational Databases (PostgreSQL/SQL)**.
 
-![](https://komarev.com/ghpvc/?username=mdimranhossainwd)
+- 🔭 Currently architecting: **Large-scale Job Portals** and **E-commerce Systems**.
+- ⚡ Focus: **Clean Architecture**, **Modular Code**, and **System Scalability**.
+- 🌱 Advanced Learning: **Docker**, **Kubernetes**, and **Advanced System Design**.
+- 💬 Ask me about: **React, TypeScript, Next.js, Node.js, & Database Optimization**.
+- 🎯 Goal: To become a Senior Software Engineer specializing in high-performance backend systems.
 
-## 🚀 About Me :
-- 🔭 I’m currently working on chat-applications, e-commerce website  and large scale job portal based project . 
-- 🌱 I’m currently learning Next.js and RDBMS. 
-- 👯 I’m looking to collaborate on open source projects . 
-- 🤔 I’m looking for help with people learn Web Development. 
-- 💬 Ask me about React, JavaScript, TypeScript, Node, Express.js .  
-- ⚡ Fun fact I think I am funny.
+---
 
-## 🌐 Reach me out :
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdimranhossain18)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdimranhossainwd) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wdimranhossain) [![Medium](https://img.shields.io/badge/Medium-444?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdimranhossain.wd) 
+### 🛠 Tech Stack
 
- 
-
-
-## 📊 GitHub Stats :
-<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=transparent&hide_border=true" /> </p>
-
-## 💻 Tech Stack :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### 🌐 Frontend & State Management
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🔧 Dev Tools & DevOps (Incoming 🚀)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdimranhossainwd&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/mdimranhossainwd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/mdimranhossain18"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://medium.com/@mdimranhossain.wd"><img src="https://img.shields.io/badge/Medium-121013?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 
 ## Support Me : 
