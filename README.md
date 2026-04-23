@@ -16,7 +16,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic Full Stack developer. I hav
 - 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on open source projects . 
 - 🤔 I’m looking for help with people learn Web Development. 
-- 💬 Ask me about React, JavaScript, TypeScript, Node, Express.js .  
+- 💬 Ask me about React, JavaScript, TypeScript, Node, Express.js, RDBMS.  
 - ⚡ Fun fact I think I am funny.
 
 ## 🌐 Reach me out :
