@@ -15,7 +15,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic Full Stack developer. I hav
 - 🔭 I’m currently working on chat-applications, and large scale job portal based project . 
 - 🌱 I’m currently learning Docker and GoLang.
 - 👯 I’m looking to collaborate on open source projects . 
-- 🤔 I’m looking for help with people learn Web Development. 
+- 🤔 I enjoy helping people learn web development.
 - 💬 Ask me about React, JavaScript, TypeScript, Node, Express.js, RDBMS.  
 - ⚡ Fun fact I think I am funny.
 
