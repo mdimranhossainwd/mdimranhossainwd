@@ -27,9 +27,10 @@ I am Md. Imran Hossain, a dedicated and enthusiastic Full Stack developer. I hav
 
 
 ## 📊 GitHub Stats :
-<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=transparent&hide_border=true" /> </p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mdimranhossainwd&theme=transparent&hide_border=true" /> </p> 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdimranhossainwd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=mdimranhossainwd&theme=dark&hide_border=false)<br/>
+
 
 
 ## 💻 Tech Stack :
