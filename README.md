@@ -27,7 +27,7 @@ I am Md. Imran Hossain, a dedicated and enthusiastic Full Stack developer. I hav
 
 
 ## 📊 GitHub Stats :
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimranhossainwd&theme=transparent&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=DDDDDD&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&currStreakNum=ffffff" /> </p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimranhossainwd&theme=transparent&hide_border=true&background=00000000&stroke=DDDDDD&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=38BDF8&sideLabels=DDDDDD&sideNums=DDDDDD&dates=DDDDDD" /> </p> 
 
 
 
