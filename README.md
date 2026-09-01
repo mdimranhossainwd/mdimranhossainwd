@@ -5,7 +5,18 @@
 <h1 align='center'> Hi 👋, I'm Md Imran Hossain </h1> 
 <h3 align='center'>A passionate Full stack developer from Bangladesh</h3>
 
-I am Md. Imran Hossain, a dedicated and enthusiastic Full Stack developer. I have been consistently working in web development for the past 1 year, continuously updating myself with modern technologies and best practices. I am passionate about building user-friendly, responsive, and high-quality web applications, and I am skilled at converting PSD and Figma designs into pixel-perfect web pages. My frontend expertise includes JavaScript (ES6), React.js, TypeScript, Redux, and RTK Query. On the backend, I am comfortable with Node.js and Express.js, and have experience working with MongoDB, MySQL, PostgreSQL and Mongoose and other technologies. I have a good understanding of REST API design and implementation and strive to follow clean coding, modular structure, and industry standards. I am accustomed to working under strict deadlines and am committed to continuously improving myself by learning new technologies .
+I’m Md. Imran Hossain, a Full Stack Developer with a strong focus on backend engineering. I build reliable, maintainable, and scalable web applications with a focus on well-structured APIs, data modeling, authentication, authorization, and business logic.
+
+My core stack includes Node.js, Express.js, TypeScript, Next.js, PostgreSQL, MongoDB, and Prisma ORM. On the frontend, I work with React.js and Next.js to build responsive interfaces and connect them with robust backend systems.
+
+I enjoy building real-world applications where authentication, user roles, payments, bookings, dashboards, search, filtering, data relationships, and business workflows need to work together reliably. I focus on writing clean, modular, and maintainable code while keeping application architecture structured and scalable.
+
+Through my personal and professional projects, I’ve gained hands-on experience designing, developing, and integrating full-stack features across both frontend and backend systems.
+
+I’m continuously improving my backend engineering skills and currently exploring Go, software testing, system design, and modern development practices to become a stronger and more well-rounded engineer.
+
+I’m open to Junior Full Stack Developer opportunities where I can contribute across the stack while continuing to grow deeper in backend engineering.
+
 
 
 
