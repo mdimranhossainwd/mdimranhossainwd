@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/banner.jpeg" 
+<img src="https://raw.githubusercontent.com/mdimranhossainwd/mdimranhossainwd/main/secondary-banner.png" 
      alt="Banner Image" 
      >
 
